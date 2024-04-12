@@ -30,8 +30,8 @@ Git
 Git clone https://github.com/lidyaghilay/.git
 
 ```
-# Live Link
-[Git](gh-pages link)
+# Live Link/Deployed link address
+https://lidyaghilay.github.io/PROJECT-ON-FIND-YOUR-RECIPE/
 
 ## Technologies used
 HTML
